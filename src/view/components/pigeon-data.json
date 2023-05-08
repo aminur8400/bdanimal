@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "chip_no" : "BAB-2020-141222 C",
+        "img": "../images/01-BAB-2020-141222-C-(RED-CHEQ).jpg",
+        "bidders_info":[
+            {
+                "id": 1,
+                "name":"Rezaul",
+                "email":"rezaul@gmail.com"
+            }
+        ],
+        "biddin_Expire":"07-May-2023",
+        "bird_color":"RED CHEQ",
+        "bird_name":"BAN-2020-141222 C",
+        "bred_by":"Shahalam Sikdar",
+        "Bred_loft_name":"Shahalam sikdar Loft",
+        "gender":"",
+        "last_offer_id":"",
+        "last_offer_name":"",
+        "last_offer_price":"",
+        "module_type":"upcoming",
+        "name":"BAN2020-141222 C",
+        "pedigree":"",
+        "photos":[
+            {
+                "id": 1,
+                "url":""
+            },
+            {
+                "id": 2,
+                "url":""
+            }
+        ],
+        "start_bidding":"",
+        "title":""
+    },
+    {
+        "id": 2,
+        "chip_no" : "BAN-2022-718748 C",
+        "img": ".../images/01-BAB-2020-141222-C-(RED-CHEQ).jpg",
+        "bidders_info":[
+            {
+                "id": 1,
+                "name":"Rezaul",
+                "email":"rezaul@gmail.com"
+            }
+        ],
+        "biddin_Expire":"07-May-2023",
+        "bird_color":"RED CHEQ",
+        "bird_name":"BAN-2020-141222 C",
+        "bred_by":"Shahalam Sikdar",
+        "Bred_loft_name":"Shahalam sikdar Loft",
+        "gender":"",
+        "last_offer_id":"",
+        "last_offer_name":"",
+        "last-offer_price":"",
+        "module_type":"upcoming",
+        "name":"BAN2020-141222 C",
+        "pedigree":"",
+        "photos":"",
+        "start_bidding":"",
+        "title":""
+    },
+    {
+        "id": 3,
+        "chip_no" : "BAN-2021-148389 H",
+        "img": ".../images/01-BAB-2020-141222-C-(RED-CHEQ).jpg",
+        "bidders_info":[
+            {
+                "id": 1,
+                "name":"Rezaul",
+                "email":"rezaul@gmail.com"
+            }
+        ],
+        "biddin_Expire":"07-May-2023",
+        "bird_color":"RED CHEQ",
+        "bird_name":"BAN-2020-141222 C",
+        "bred_by":"Shahalam Sikdar",
+        "Bred_loft_name":"Shahalam sikdar Loft",
+        "gender":"",
+        "last_offer_id":"",
+        "last_offer_name":"",
+        "last_offer_price":"",
+        "module_type":"upcoming",
+        "name":"BAN2020-141222 C",
+        "pedigree":"",
+        "photos":"",
+        "start_bidding":"",
+        "title":""
+    },
+    {
+        "id": 4,
+        "chip_no" : "BAN-2021-148389 H",
+        "img": ".../images/01-BAB-2020-141222-C-(RED-CHEQ).jpg",
+        "bidders_info":[
+            {
+                "id": 1,
+                "name":"Rezaul",
+                "email":"rezaul@gmail.com"
+            }
+        ],
+        "biddin_Expire":"07-May-2023",
+        "bird_color":"RED CHEQ",
+        "bird_name":"BAN-2020-141222 C",
+        "bred_by":"Shahalam Sikdar",
+        "Bred_loft_name":"Shahalam sikdar Loft",
+        "gender":"",
+        "last_offer_id":"",
+        "last_offer_name":"",
+        "last_offer_price":"",
+        "module_type":"upcoming",
+        "name":"BAN2020-141222 C",
+        "pedigree":"",
+        "photos":"",
+        "start_bidding":"",
+        "title":""
+    },
+    {
+        "id": 5,
+        "chip_no" : "BAN-2021-148389 H",
+        "img": ".../images/01-BAB-2020-141222-C-(RED-CHEQ).jpg",
+        "bidders_info":[
+            {
+                "id": 1,
+                "name":"Rezaul",
+                "email":"rezaul@gmail.com"
+            }
+        ],
+        "biddin_Expire":"07-May-2023",
+        "bird_color":"RED CHEQ",
+        "bird_name":"BAN-2020-141222 C",
+        "bred_by":"Shahalam Sikdar",
+        "Bred_loft_name":"Shahalam sikdar Loft",
+        "gender":"",
+        "last_offer_id":"",
+        "last_offer_name":"",
+        "last_offer_price":"",
+        "module_type":"upcoming",
+        "name":"BAN2020-141222 C",
+        "pedigree":"",
+        "photos":"",
+        "start_bidding":"",
+        "title":""
+    },
+    {
+        "id": 6,
+        "chip_no" : "BAN-2021-148389 H",
+        "img": ".../images/01-BAB-2020-141222-C-(RED-CHEQ).jpg",
+        "bidders_info":[
+            {
+                "id": 1,
+                "name":"Rezaul",
+                "email":"rezaul@gmail.com"
+            }
+        ],
+        "biddin_Expire":"07-May-2023",
+        "bird_color":"RED CHEQ",
+        "bird_name":"BAN-2020-141222 C",
+        "bred_by":"Shahalam Sikdar",
+        "Bred_loft_name":"Shahalam sikdar Loft",
+        "gender":"",
+        "last_offer_id":"",
+        "last_offer_name":"",
+        "last_offer_price":"",
+        "module_type":"upcoming",
+        "name":"BAN2020-141222 C",
+        "pedigree":"",
+        "photos":"",
+        "start_bidding":"",
+        "title":""
+    }
+]

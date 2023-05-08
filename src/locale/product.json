@@ -1,0 +1,30 @@
+{
+    "product": [
+        {
+            "handle": "big-double",
+            "title": {
+                "en": "Big Double",
+                "bd": "বড় ডাবলি"
+            },
+            "tags": "double, ডাবলি, pigeon, কবুতর, food, খাদ্য",
+            "product_type": {
+                "en": "food",
+                "bd": "খাদ্য"
+            },
+            "thumbnail": "assets/product-images/326950609_719950839700531_6760553074119633410_n.jpg"
+        },
+        {
+            "handle": "sunflower-seeds",
+            "title": {
+                "en": "Sunflower Seeds",
+                "bd": "সূর্যমুখী বীজ"
+            },
+            "tags": "Sunflower, সূর্যমুখী, seeds, বীজ, pigeon, কবুতর, food, খাদ্য",
+            "product_type": {
+                "en": "food",
+                "bd": "খাদ্য"
+            },
+            "thumbnail": "assets/product-images/326859471_699045658563353_3576291136756746014_n.jpg"
+        }
+    ]
+}

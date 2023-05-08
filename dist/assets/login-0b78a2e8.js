@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as _,c as o}from"./index-f980b293.js";const a={};function n(c,t){return _(),o("div",null," Login ")}const d=e(a,[["render",n],["__scopeId","data-v-1a535ada"]]);export{d as default};
